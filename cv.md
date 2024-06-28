@@ -13,7 +13,7 @@
 
 ---
 
-#Professional Summary
+##Professional Summary:
 Motivated junior frontend developer with a passion for creating responsive web applications. Skilled in HTML, CSS, JavaScript, and frameworks like React. Eager to contribute to a dynamic team and grow professionally.
 
 ---
@@ -28,7 +28,7 @@ Motivated junior frontend developer with a passion for creating responsive web a
 
 ---
 
-#Education
+##Education:
 Bachelor of International Tourism
 **Belarussian State Uniersity**, 2018
 
