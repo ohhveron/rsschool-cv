@@ -1,0 +1,95 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 2em;
+    color: #333;
+}
+
+.job strong {
+    font-size: 1.2em;
+    color: #555;
+}
+
+.img img {
+    border-radius: 50%;
+    border: 3px solid #333;
+    margin-bottom: 20px;
+}
+
+.contacts strong {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    color: #555;
+}
+
+.contacts ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contacts ul li {
+    margin-bottom: 10px;
+    font-size: 1em;
+    color: #777;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #ccc;
+    margin: 20px 0;
+}
+
+.summary, .skills, .education, .courses, .languages {
+    font-size: 1em;
+    color: #555;
+    text-align: left;
+    margin: 0 10%;
+}
+
+.skills ul, .languages ol {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 10px 0;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+footer p, footer a {
+    color: #333;
+    text-decoration: none;
+    font-size: 0.9em;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+#logo {
+    margin-top: 10px;
+}
